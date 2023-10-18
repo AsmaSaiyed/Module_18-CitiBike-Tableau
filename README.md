@@ -1,24 +1,26 @@
 # Module_18-CitiBike-Tableau
-Background
+![citibike](https://static.bc-edx.com/data/dl-1-2/m18/lms/img/citi-bike-station-bikes.jpg)
+
+
+## Background
 This analysis is based on the data obtained from the Citi Bike website. The data used in this CSV includes the Citi-Bike riding data from June 2023- September 2023 which are considered the summer months for New York city.
 The Data is used by combining the 4 seperate CSVs by using the Python.
 Using this data 6 Visualizations were created as well as a Dashboard and a Story.
 
-The visualizations incclude :
 
-Total Rides in Summer- shows the monthly count of the rides in the data.
-Most Popular Stations- shows the most popular Start stations for the ride
-Bike Types used by the riders- shows the classisfication of riders based on casual or member and filtered based on the type of the bike used.
-Start Stations based on Membership- shows the most and least popular stations 
-Dily Bike ride count- shows the daily count of bike rides from 01-June 2023 to 30-Sept 2023
-City bike Map- shows the location of all the start stations and can show based on the month and the type of bike.
-CITI BIKES STUDY FOR SUMMARY - A dashboard using 4 of the visualizations used to do analysis,
+## The visualizations include :
 
-The Tableau workbook has been updated on Tableau Public for 
+  * Total Rides in Summer- shows the monthly count of the rides in the data.
+  * Most Popular Stations- shows the most popular Start stations for the ride
+  * Bike Types used by the riders- shows the classisfication of riders based on casual or member and filtered based on the type of the bike used.
+  * Start Stations based on Membership- shows the most and least popular stations
+  * Dily Bike ride count- shows the daily count of bike rides from 01-June 2023 to 30-Sept 2023
+  * City bike Map- shows the location of all the start stations and can show based on the month and the type of bike.
+  * CITI BIKES STUDY FOR SUMMARY - A dashboard using 4 of the visualizations used to do analysis,
 
+The Tableau workbook has been updated on Tableau Public named [NewYork-CitiBikes_summer_2023](https://public.tableau.com/app/profile/asma.saiyed/vizzes)
 
-
-Analysis:
+## Analysis:
 
 Based on the  visualizations following are some of the conclusions that could be derived:
 
